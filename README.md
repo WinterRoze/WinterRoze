@@ -1,9 +1,10 @@
-👋 Hi, I’m @WinterRoze !!
-- 👀 I’m interested in fnf stuff !!
-- 🌱 I’m currently learning fnf stuff !!
-- 💞️ I’m looking to collaborate on my stuff !!
-- 📫 How to reach me: NEVER ......
+Hey, my name is vibbenn/Winter. 
+
+I like to draw and animate, as well as make music and program, which is basically me saying I'm into new things!
+Currently working on projects that I want to finish by the end of 2025.
+
+Uhh yeah that's all byebye!!
 <!---
-WinterRoze/WinterRoze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vibbenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
